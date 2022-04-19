@@ -1,0 +1,34 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    /* background-color: pink; */
+}
+
+.cont{
+    width: 450px;
+    height: 400px;
+    background-color: #ff1d58;
+    margin-left: 350px;
+    color:white;
+    padding-left:55px;
+    padding-top: 30px;
+    border-radius: 50px;
+}
+
+input{
+    width: 80%;
+    padding: 5px;
+    margin-top: 10px;
+    border:none;
+}
+
+input:focus{
+    outline: none;
+}
+
+h2{
+    font-size: 35px;
+}
+
+.main{
+    padding-bottom: 20px;
+}
